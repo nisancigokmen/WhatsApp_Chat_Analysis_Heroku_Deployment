@@ -2,8 +2,6 @@
 
 
 
-
-
 ## About Project:
 - The main goal of this project is to analys the whatsapp chat and represents through charts and visuals.
 - Project is live now and deployed on heroku. visit at https://wp-analyzer.herokuapp.com/
@@ -72,6 +70,7 @@
 4. To see details how it works click on plus icon '+', click again '-' to close
 5. Browse your file or drang and drop in the file box.
 6. Once your file has been uploaded all members name will be visible in dropdown menu,default selecte All, if you want to analys for indivisual member then select that member and click on 'Show Analysis'.
+
 
 
 # Some Snapshots:
